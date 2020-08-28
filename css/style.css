@@ -55,7 +55,7 @@ a:hover {
 .class-section{
     position: relative;
     height: 350px;
-    width: 409px;
+    width: 408px;
     margin: 60px;
     background-color: #ffffff;
     border-radius: 15px;
@@ -133,6 +133,12 @@ h4{
     margin-bottom: 20px;
 }
 #footer {
+    bottom: 0;
+    text-align: center;
+    align-items: center;
+}
+#footer-class{
+    margin-top: 65px;
     bottom: 0;
     text-align: center;
     align-items: center;
