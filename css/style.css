@@ -86,9 +86,10 @@ h1{
     display: inline-block;
     margin-bottom: 20px;
     font-size: 40px;
+    margin-left: 35%;
 }
 .home-header{
-    margin-left: 45%;
+    margin-left: 40%;
 }
 .inline-div {
     display: inline;
