@@ -58,6 +58,9 @@ i, h3{
     display: inline-block;
     vertical-align: middle;
 }
+h1{
+    margin-bottom: 50px;
+}
 body {
     font-family: 'Roboto', sans-serif;
 }
