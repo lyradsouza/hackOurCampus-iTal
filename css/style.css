@@ -38,9 +38,9 @@ a:hover {
     float: left;
     position: relative;
     height: 100%;
-    background-color: cyan;
     width: 1090px;
     top: 0px;
+    padding-bottom: 30px;
 }
 .class-row{
     display: inline-flex;
@@ -67,6 +67,8 @@ i, h3{
 }
 h1{
     margin-bottom: 50px;
+    margin-left: 40px;
+    font-size: 45px;
 }
 body {
     font-family: 'Roboto', sans-serif;
@@ -81,4 +83,9 @@ body {
 h4{
     font-size: 25px;
     padding-left: 70px;
+}
+#footer {
+    bottom: 0;
+    text-align: center;
+    align-items: center;
 }
