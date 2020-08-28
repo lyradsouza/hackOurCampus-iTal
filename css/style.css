@@ -33,12 +33,14 @@ a:hover {
     width: 250px;
     padding: 40px;
     min-height: 100vh;
+    top: 0px;
 }
 #main-content{
-    float: right;
+    float: left;
     position: relative;
-    right: 856px;
-
+    background-color: cyan;
+    width: 800px;
+    top: 0px;
 }
 .class-section{
     position: relative;
@@ -63,4 +65,11 @@ h1{
 }
 body {
     font-family: 'Roboto', sans-serif;
+}
+#top-bar{
+    position: relative;
+    float: left;
+    background-color: goldenrod;
+    width: 1420px;
+    height: 100px;
 }
