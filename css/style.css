@@ -1,0 +1,40 @@
+#page-contaner{
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    opacity: .7;
+}
+.material-icons:hover {
+    opacity: .7;
+}
+#menu{
+    background-color: #DE5940;
+    position: relative;
+    float: left;
+    width: 250px;
+    padding: 40px;
+    min-height: 100vh;
+}
+#main-content{
+    float: right;
+    position: relative;
+    right: 856px;
+
+}
+.class-section{
+    position: relative;
+    height: 150px;
+    margin-left: 60px;
+
+}
+#icon{
+    float:left;
+}
+h3{
+    margin-left: 2em;
+}
