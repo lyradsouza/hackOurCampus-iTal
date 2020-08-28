@@ -74,17 +74,14 @@ i, h3{
     vertical-align: middle;
 }
 h1{
-    padding: 10px;
-    margin-left: 20px;
-    display: inline-block;
-}
-.class-name {
-    padding: 10px;
-    margin-left: 500px;
-    display: inline-block;
     margin-bottom: 50px;
     margin-left: 40px;
     font-size: 45px;
+    display: inline-block;
+}
+.class-name {
+    display: inline-block;
+    margin-left: 500px;
 }
 .inline-div {
     display: inline;
@@ -130,4 +127,11 @@ h5 {
     text-align: center;
     align-items: center;
 }
-
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid rgb(165, 104, 104);
+    margin: 10px;
+    padding: 0;
+}
