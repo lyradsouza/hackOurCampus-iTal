@@ -126,11 +126,11 @@ h4{
     width: 290px;
     top: 0px;
     left: -4px;
-    background-color: rgb(89, 0, 255);
 }
 #activity-text {
     font-size: 30px;
     text-align: center;
+    margin-bottom: 20px;
 }
 #footer {
     bottom: 0;
@@ -146,11 +146,22 @@ hr {
     margin-right: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding: 0;
 }
 .activity-message {
-    font-size: 20px;
+    font-size: 17px;
+    margin-left: 0.5em;
 }
 .act-adj {
-    margin-left: 50px;
+    margin-left: 20px;
+
+}
+i, p.activity-message{
+    display: inline-block;
+    vertical-align: middle;
+}
+.activity-timestamp {
+    color: rgb(47, 47, 160);
+    margin-left: 2.8em;
+    margin-top: -8px;
+    font-size: 12px;
 }
