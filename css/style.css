@@ -137,6 +137,12 @@ h4{
     text-align: center;
     align-items: center;
 }
+#footer-class{
+    margin-top: 65px;
+    bottom: 0;
+    text-align: center;
+    align-items: center;
+}
 hr {
     display: block;
     height: 1px;
