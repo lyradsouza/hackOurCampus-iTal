@@ -50,6 +50,10 @@ a:hover {
     float:left;
 }
 h3{
+    margin-left: 1.5em;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
 body {
     font-family: 'Roboto', sans-serif;
 }
