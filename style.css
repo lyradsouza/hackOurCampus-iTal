@@ -1,0 +1,16 @@
+#page-contaner{
+    position: relative;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+#menu{
+    position: relative;
+    float: left;
+    width: 30%;
+}
+#main-content{
+    float: right;
+    position: relative;
+    right: 300px;
+
+}
