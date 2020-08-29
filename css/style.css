@@ -47,7 +47,6 @@ a:hover {
     width: 1090px;
     top: 75px;
     left: 260px;
-    background-color: cyan;
 }
 #main-content2{
     float: left;
@@ -224,4 +223,9 @@ img.round-border {
 }
 .thicker {
     font-weight: 900;
+}
+.class-notif {
+    font-size: 14px;
+    margin-left: 20px;
+    line-height: 20px;
 }
