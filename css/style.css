@@ -123,9 +123,10 @@ body {
     letter-spacing: 2px;
 }
 h4{
-    font-size: 20px;
+    font-size: 23px;
     padding-left: 70px;
     color: #656464;
+    margin-left: -60px;
 }
 .class-option {
     border-radius: 15px;
