@@ -1,8 +1,67 @@
 body{
     background-image: url("../images/background.png");
     background-size: cover;
+    font-style: "Roboto" sans-serif;
 }
 #login-box{
-    width: 400px;
+    position: relative;
+    top: 80px;
+    width: 40%;
+    margin-left: 29%;
+    margin-right: 29%;
     background-color: white;
+    height: 500px;
+    padding: 20px;
+    box-shadow: 2px 2px 5px rgb(160, 160, 160);
+    text-align: center;
+}
+h1{
+    color: #DE5940;
+    font-size: 85px;
+    margin-top: 18px;
+    margin-bottom: 0;
+}
+h2{
+    margin-top: 18px;
+    font-size: 40px;
+}
+.act-adj{
+}
+i, p{
+    display: inline-block;
+    vertical-align: middle;
+}
+p{
+    border-bottom: 1px solid black;
+    color: #656464;
+}
+#shorter{
+    padding-left: 60px;
+    padding-right: 80px;
+}
+#longer{
+    padding-left: 55px;
+    padding-right: 75px;
+}
+h5{
+}
+button{
+    background-color: #DE5940;
+    color: white;
+    width: 120px;
+    height: 60px;
+    border: none;
+    border-radius: 15px;
+    font-size: 20px;
+}
+button:hover{
+    opacity: .8;
+}
+button:active, button:focus {
+    outline: none;
+
+}
+#password{
+    color: #0F7288;
+    text-decoration: underline;
 }
